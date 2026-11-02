@@ -1,0 +1,101 @@
+[
+  {
+    "name": "todo-app-v3",
+    "language": "JavaScript",
+    "born": "2020-03",
+    "died": "2021-01",
+    "cause": "Tutorial completed",
+    "stars": 2,
+    "epitaph": "It did one thing. Then nothing.",
+    "lastWords": "add dark mode (wip)",
+    "activity": [6, 3, 2, 1, 0, 0, 1, 0, 0, 0, 1]
+  },
+  {
+    "name": "crypto-portfolio-tracker",
+    "language": "TypeScript",
+    "born": "2021-04",
+    "died": "2022-05",
+    "cause": "Market crashed",
+    "stars": 9,
+    "epitaph": "Went to the moon. Never came back.",
+    "lastWords": "fix: price api again",
+    "activity": [18, 14, 9, 11, 7, 6, 5, 4, 3, 4, 2, 1, 1, 3]
+  },
+  {
+    "name": "dotfiles-final-FINAL",
+    "language": "Shell",
+    "born": "2019-08",
+    "died": "2023-02",
+    "cause": "Configured to death",
+    "stars": 1,
+    "epitaph": "Perfectly tuned. Never used.",
+    "lastWords": "tweak prompt colors",
+    "activity": [12, 8, 6, 5, 4, 6, 5, 3, 4, 5, 6, 4, 3, 5, 4, 6, 5, 4, 3, 5, 6, 4, 5, 4, 3, 6, 5, 4, 5, 4, 3, 5, 4, 6, 5, 4, 5, 4, 3, 5, 6, 4, 9]
+  },
+  {
+    "name": "hackathon-2022",
+    "language": "Python",
+    "born": "2022-10",
+    "died": "2022-10",
+    "cause": "Hackathon ended",
+    "stars": 4,
+    "epitaph": "Lived 36 hours. Burned brightly.",
+    "lastWords": "it works dont touch it",
+    "activity": [61]
+  },
+  {
+    "name": "my-blog",
+    "language": "Ruby",
+    "born": "2018-01",
+    "died": "2018-03",
+    "cause": "One-post wonder",
+    "stars": 0,
+    "epitaph": "Here lies one post: Hello, World.",
+    "lastWords": "hello world post",
+    "activity": [7, 1, 1]
+  },
+  {
+    "name": "react-native-recipes",
+    "language": "JavaScript",
+    "born": "2020-06",
+    "died": "2021-09",
+    "cause": "Dependency hell",
+    "stars": 6,
+    "epitaph": "Killed by npm install.",
+    "lastWords": "upgrade expo (broken)",
+    "activity": [9, 7, 5, 4, 3, 4, 2, 3, 2, 1, 2, 1, 1, 0, 1, 2]
+  },
+  {
+    "name": "rust-learning",
+    "language": "Rust",
+    "born": "2023-01",
+    "died": "2023-02",
+    "cause": "Borrow checker",
+    "stars": 0,
+    "epitaph": "Fought the borrow checker. Lost.",
+    "lastWords": "why",
+    "activity": [9, 3]
+  },
+  {
+    "name": "startup-idea-no-really",
+    "language": "TypeScript",
+    "born": "2022-01",
+    "died": "2022-02",
+    "cause": "Scope creep",
+    "stars": 3,
+    "epitaph": "Was going to change everything.",
+    "lastWords": "add AI to roadmap",
+    "activity": [15, 7]
+  },
+  {
+    "name": "portfolio-v1",
+    "language": "HTML",
+    "born": "2017-05",
+    "died": "2019-11",
+    "cause": "Replaced by v2",
+    "stars": 1,
+    "epitaph": "Survived by portfolio-v2.",
+    "lastWords": "update resume link",
+    "activity": [14, 10, 8, 6, 5, 4, 4, 3, 5, 4, 3, 2, 4, 3, 5, 4, 3, 2, 3, 4, 3, 2, 3, 4, 2, 3, 2, 1, 2, 1, 4]
+  }
+]
