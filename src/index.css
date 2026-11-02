@@ -15,7 +15,6 @@
   --blue: #1f51ff;
   --blue-text: #A9BBFF;
 
-  --font-logo: 'Orbitron', system-ui, sans-serif;
   --font-display: 'Instrument Serif', Georgia, serif;
   --font-body: 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, Menlo, monospace;
@@ -144,15 +143,28 @@ dd {
 }
 
 .logo-mark {
-  font-family: var(--font-logo);
-  font-weight: 700;
-  font-size: 20px;
+  width: 28px;
+  height: 28px;
+  flex: none;
+  fill: none;
+  stroke: var(--green);
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.logo-mark circle {
+  fill: var(--green);
+  stroke: none;
+}
+
+.logo-text {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: 16px;
   color: var(--green);
 }
 
-.logo-path {
-  font-family: var(--font-mono);
-  font-size: 13px;
+.logo-slash {
   color: var(--muted);
 }
 
